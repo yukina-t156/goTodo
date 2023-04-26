@@ -3,6 +3,8 @@
 TODOリストを作りたい！
 - まずは基本から
 - できたら拡張したい
+  - チェックをつける
+  - 優先度を設定
   - タスクにかける時間などをいれたい
   - ポモドーロタイマーをつけたい
   - タスクを25minごとに分けてポモドーロタイマーと連動させたい
@@ -11,9 +13,12 @@ TODOリストを作りたい！
 ---
 
 # 参考サイト
-(https://selfnote.work/20210218/programming/create-javascript-app45/)
-(https://selfnote.work/20210223/programming/create-todo-with-golang/)
+
+https://blog.mimipen.net/entry/2020/02/12/075627
+
+https://selfnote.work/20210218/programming/create-javascript-app45/
+https://selfnote.work/20210223/programming/create-todo-with-golang/
 
 [フロントエンドエンジニアがGo言語でToDoリストAPIを作ってみた](https://liginc.co.jp/584227)
 
-(https://studio-andy.hatenablog.com/entry/go-todo-crud)
+https://studio-andy.hatenablog.com/entry/go-todo-crud
