@@ -2,18 +2,18 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="css/style.css" />
         <title>TODOリスト</title>
     </head>
     <body>
         <h1>TODOリスト</h1>
         <form id="form">
-            <input type="text" class="input" id="input"
+            <input type="text" class="task_name" id="task_name"
             placeholder="write here!" autocomplete="off">
-            <ul class="todos" id="todos"></ul>
         </form>
-        
+        <button id="add_task" class="add_task" type="button" onclick="AddTask();">登録</button>
+        <ul class="todo-list" id="todo-list"></ul>
 
-        <script src="script.js"></script>
+        <script src="js/todo.js"></script>
     </body>
 </html>
